@@ -8,19 +8,28 @@
 - 1일 1 레포를 도전하고 있지만, 조금 힘들거같네요.
 - 할수있는 언어는 다음과 같습니다.
 
-```
-py
-js
-cs
-cpp
-rs
-go
-fortran
-java
-F#
-ASM은 했다가 포기
-언어는 아니지만 HTML + CSS
-기타로 더 있지만 생각이 잘 안나서 안적음
-(생각이 안나는거면 못하는거 아닌가..?)
+```rs
+fn main() {
+    println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
+}
+
+struct SelfIntroduction {
+    name: String,
+    age: i32,
+    gender: String,
+    insung: i32,
+    language: [&'static str; 14]
+}
+
+fn hello() -> SelfIntroduction {
+    let hello = SelfIntroduction {
+        name: String::from("빵켓"),
+        age: 6,
+        gender: String::from("???"),
+        insung: 1972,
+        language: ["C#", "C++", "Java", "Rust", "JavaScript", "GoLang", "F#", "ASM", "Fortran", "Python", "한국어", "영어", "야옹이마을 언어", "BBangLang"]
+    };
+    hello
+}
 ```
 
