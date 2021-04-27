@@ -8,7 +8,7 @@
 - 1일 1 레포를 도전하고 있지만, 조금 힘들거같네요.
 - 할수있는 언어는 다음과 같습니다.
 
-```rs
+```rust
 fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
 }
