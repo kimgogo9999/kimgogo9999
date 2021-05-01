@@ -1,6 +1,6 @@
 # Hello, World!
 
-![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&theme=onedark)
+![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&theme=tokyonight)
 
 
 # 안내
