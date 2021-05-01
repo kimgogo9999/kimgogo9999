@@ -33,3 +33,5 @@ fn hello() -> SelfIntroduction {
 }
 ```
 
+# 기타
+- ..믕믕
