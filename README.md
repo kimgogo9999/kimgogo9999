@@ -70,3 +70,5 @@ impl Info {
 
 struct Info { name: String, age: i8, des: String }
 ```
+
+**주로 러스트를 사용합니다.**
