@@ -21,7 +21,7 @@ fn hello() -> SelfIntroduction {
         age: 6,
         gender: String::from("???"),
         insung: 1972,
-        language: ["C#", "C++", "Java", "Rust", "JavaScript", "GoLang", "F#", "ASM", "Fortran", "Python", "한국어", "영어", "야옹이마을 언어", "BBangLang"]
+        language: ["Rust", "C#", "C++", "Java", "JavaScript", "GoLang", "F#", "Python", "한국어", "영어", "야옹이마을 언어", "BBangLang"]
     };
     hello
 }
@@ -71,4 +71,4 @@ impl Info {
 struct Info { name: String, age: i8, des: String }
 ```
 
-**주로 러스트를 사용합니다.**
+**러스트!**
