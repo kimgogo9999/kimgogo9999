@@ -1,7 +1,7 @@
 # Hello, World!
 
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&&layout=compact&langs_count=10&theme=nightowl&custom_title=Language)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fn79&count_private=true&show_icons=true&theme=nightowl&custom_title=Github%20State)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&&layout=compact&langs_count=10&theme=nightowl)
 
 ```rs
   ____   ____                             _____        _   
@@ -21,13 +21,7 @@ fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
 }
 
-struct SelfIntroduction {
-    name: String,
-    age: i32,
-    gender: String,
-    insung: i32,
-    language: [&'static str; 14]
-}
+struct SelfIntroduction { name: String, age: i32, gender: String, insung: i32, language: [&'static str; 14] }
 
 fn hello() -> SelfIntroduction {
     let hello = SelfIntroduction {
