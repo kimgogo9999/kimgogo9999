@@ -14,8 +14,6 @@
                               |___/                        
 ```
 
-![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&theme=tokyonight)
-
 ```rust
 fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
