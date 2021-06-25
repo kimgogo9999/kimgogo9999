@@ -2,6 +2,17 @@
 
 ![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&theme=tokyonight)
 
+```rs
+  ____   ____                          _____        _   
+ |  _ \ |  _ \                        / ____|      | |  
+ | |_) || |_) |  __ _  _ __    __ _  | |      __ _ | |_ 
+ |  _ < |  _ <  / _` || '_ \  / _` | | |     / _` || __|
+ | |_) || |_) || (_| || | | || (_| | | |____| (_| || |_ 
+ |____/ |____/  \__,_||_| |_| \__, |  \_____|\__,_| \__|
+                               __/ |                    
+                              |___/                     
+```
+
 ```rust
 fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
