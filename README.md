@@ -19,9 +19,9 @@ fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
 }
 
-struct SelfIntroduction { name: String, age: i32, gender: String, insung: i32, language: [&'static str; 14] }
+struct SelfIntroduction<'a> { name: String, age: i32, gender: String, insung: i32, language: [&'a str; 3] }
 
-fn hello() -> SelfIntroduction {
+fn hello() -> SelfIntroduction<'static> {
     let hello = SelfIntroduction {
         name: String::from("! 빵켓#0001"),
         age: 6,
