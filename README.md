@@ -1,5 +1,5 @@
 # Hello, World!
-<center><img src="image/background.png"  width="150" height="150"></center>
+<center><img src="image/background.png"></center>
 
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&&layout=compact&langs_count=10&theme=nightowl&custom_title=Language)
