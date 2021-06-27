@@ -20,7 +20,7 @@ fn main() {
     println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len())
 }
 
-struct SelfIntroduction<'a> { name: String, age: i32, gender: String, insung: i32, language: [&'a str; 3] }
+struct SelfIntroduction<'a> { name: String, age: i32, gender: String, insung: i32, language: [&'a str; 4] }
 
 fn hello() -> SelfIntroduction<'static> {
     let hello = SelfIntroduction {
@@ -28,7 +28,7 @@ fn hello() -> SelfIntroduction<'static> {
         age: 6,
         gender: String::from("남"),
         insung: 1972,
-        language: ["Rust", "C#", "Python"]
+        language: ["Rust", "C#", "Python", "헤으응 언어 (?)"]
     };
     hello
 }
