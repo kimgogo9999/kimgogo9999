@@ -3,7 +3,7 @@
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&&layout=compact&langs_count=10&theme=nightowl&custom_title=Language)
 
-![rs_icon.png](/rs_icon.png)
+<center><img src="/rs_icon.png"></center>
 
 ```rs
   ____   ____                             _____        _   
