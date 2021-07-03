@@ -2,7 +2,8 @@
 
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fn79&&layout=compact&langs_count=10&theme=nightowl&custom_title=Language)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fn79&count_private=true&show_icons=true&theme=nightowl&custom_title=Github%20State)
+
+![rs_icon.png](/rs_icon.png)
 
 ```rs
   ____   ____                             _____        _   
