@@ -18,17 +18,16 @@
 
 ```rust
 fn main() {
-    println!("이름: {}\n나이: {}\n성별: {}\n인성: {}\n할수있는 언어: {}개 ({:?})\n", hello().name, hello().age, hello().gender, hello().insung, hello().language.len(), hello().language)
+    println!("이름: {}\n나이: {}\n성별: {}\n사용하는 언어: {}개 ({:?})\n", hello().name, hello().age, hello().gender, hello().language.len(), hello().language)
 }
 
-struct SelfIntroduction<'a> { name: &'a str, age: i32, gender: &'a str, insung: i32, language: [&'a str; 3] }
+struct SelfIntroduction<'a> { name: &'a str, age: i32, gender: &'a str, language: [&'a str; 3] }
 
 fn hello<'a>() -> SelfIntroduction<'a> {
     let hello = SelfIntroduction {
         name: "! 빵켓#0001",
         age: 6,
         gender: "남 (아마도)",
-        insung: i32::MAX,
         language: ["Rust", "C#", "Python"]
     };
     hello
