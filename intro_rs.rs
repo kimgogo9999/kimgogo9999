@@ -1,17 +1,27 @@
 fn main() {
-    let x = Intro { name: "빵켓".to_string(), age: 6, pvp: -1972, mcname: "BBangCat".to_string(), mic: false, description: "??".to_string() };
-
-    match x.hello() {
-        Some(t) => println!("{}", t),
-        None => println!("당신은 휴먼입니까?")
-    }
+    println!(
+        "이름: {}\n나이: {}\n성별: {}\n사용하는 언어: {}개 ({:?})\n",
+        hello().name,
+        hello().age,
+        hello().gender,
+        hello().language.len(),
+        hello().language
+    )
 }
 
-struct Intro { name: String, age: i32, pvp: i32, mcname: String, mic: bool, description: String }
+struct SelfIntroduction<'a> {
+    name: &'a str,
+    age: i32,
+    gender: &'a str,
+    language: [&'a str; 3],
+}
 
-impl Intro {
-    fn hello(&self) -> Option<String> {
-        _ => Some(format!("이름: {}\n나이: {}\nPVP 실력: {}/10\n마인크래프트 이름: {}\n마이크사용: {}\n설명: {}",
-                          self.name, self.age, self.pvp, self.mcname, self.mic, self.description))
-    }
+fn hello<'a>() -> SelfIntroduction<'a> {
+    let hello = SelfIntroduction {
+        name: "! 빵켓#0001",
+        age: 6,
+        gender: "남 (아마도)",
+        language: ["Rust", "C#", "Python"],
+    };
+    hello
 }
