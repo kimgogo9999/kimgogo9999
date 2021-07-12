@@ -13,7 +13,7 @@ struct SelfIntroduction<'a> {
     name: &'a str,
     age: i32,
     gender: &'a str,
-    language: [&'a str; 3],
+    language: Vec<&'a str>,
 }
 
 fn hello<'a>() -> SelfIntroduction<'a> {
@@ -21,7 +21,7 @@ fn hello<'a>() -> SelfIntroduction<'a> {
         name: "! 빵켓#0001",
         age: 6,
         gender: "남 (아마도)",
-        language: ["Rust", "C#", "Python"],
+        language: vec!["Rust", "C#", "Python"],
     };
     hello
 }
