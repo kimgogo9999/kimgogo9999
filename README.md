@@ -2,13 +2,14 @@
 
 ```rust
 fn main() {
+    let owo = |x: Vec<&str>| x.iter().map(|x| x.to_string() + " ").collect::<String>();
     println!(
-        "이름: {}\n나이: {}\n성별: {}\n사용하는 언어: {}개 ({:?})\n",
+        "Name: {}\nAge: {}\nGender: {}\nLanguage: {}\nEditor: {}",
         hello().name,
         hello().age,
         hello().gender,
-        hello().language.len(),
-        hello().language
+        owo(hello().language),
+        owo(hello().editor)
     )
 }
 
@@ -17,14 +18,16 @@ struct SelfIntroduction<'a> {
     age: i32,
     gender: &'a str,
     language: Vec<&'a str>,
+    editor: Vec<&'a str>,
 }
 
 fn hello<'a>() -> SelfIntroduction<'a> {
     let hello = SelfIntroduction {
-        name: "! 빵켓#0001",
+        name: "Bread Cat",
         age: 6,
-        gender: "남 (아마도)",
+        gender: "Male",
         language: vec!["Rust", "C#", "Python"],
+        editor: vec!["IntelliJ", "vscode", "notepad"],
     };
     hello
 }
