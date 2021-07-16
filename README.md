@@ -1,4 +1,7 @@
-# **Hello, World!**
+# **Привет!**
+
+* **Top Language:** Rust
+* **Learning Russian!**
 
 ```rust
 fn main() {
