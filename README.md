@@ -5,7 +5,7 @@
 
 ```rust
 fn main() {
-    let owo = |x: Vec<&str>| x.iter().map(|x| x.to_string() + " ").collect::<String>();
+    let owo = |x: Vec<&str>| x.iter().map(|x| x.to_string()).collect::<Vec<String>>().join(", ");
     println!(
         "Name: {}\nAge: {}\nGender: {}\nLanguage: {}\nEditor: {}",
         hello().name,
