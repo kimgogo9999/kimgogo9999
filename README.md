@@ -1,1 +1,1 @@
-<center><img src="image/ferris.png"></center>
+<center><img src="ferris.png"></center>
