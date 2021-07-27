@@ -1,3 +1,1 @@
-```
-$ cargo build
-```
+<center><img src="ferris.png"></center>
