@@ -1,5 +1,5 @@
 ```rs
-OwO
+OwO!(); // https://raw.githubusercontent.com/fn79/fn79/main/owo.json
 ```
 
 ![a](https://komarev.com/ghpvc/?username=fn79)
