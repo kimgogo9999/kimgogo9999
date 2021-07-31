@@ -1,3 +1,6 @@
-<center><img src="ferris.png" width="358" height="201"></center>
+```rs
+OwO
+```
 
 ![a](https://komarev.com/ghpvc/?username=fn79)
+**Discord:** `! Bread Cat#0002`
