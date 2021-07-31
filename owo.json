@@ -1,0 +1,24 @@
+{
+    "name": "빵켓 - Bread Cat",
+    "age": "6",
+    "lang": [
+        "Rust",
+        "Python",
+        "C#",
+        "Korean"
+    ],
+    "editor": [
+        "IntelliJ",
+        "PyCharm",
+        "VSCode"
+    ],
+    "github": "fn79",
+    "github_link": "https://github.com/fn79",
+    "discord_server": {
+        "guild_name": "KSK - 코딩하는 사람들의 커뮤니티 (코사커)",
+        "invite_link": "https://discord.gg/stbVcrYZVZ",
+        "guild_owner": "Kaizer#1111"
+    },
+    "discord_name": "! Bread Cat#0002",
+    "discord_id": 760688241447141395
+}
