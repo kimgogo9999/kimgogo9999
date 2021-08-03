@@ -28,3 +28,5 @@ fn hello<'a>() -> SelfIntroduction<'a> {
     };
     hello
 }
+
+// 더이상 사용하지  않습니다 흐헤헤
