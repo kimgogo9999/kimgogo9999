@@ -10,3 +10,5 @@ OwO!(); // https://raw.githubusercontent.com/fn79/fn79/main/owo.json
 
 
 **Discord:** `! Bread Cat#0002`
+
+<center><img src="banner.png"></center>
