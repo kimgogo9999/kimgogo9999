@@ -2,7 +2,7 @@
 OwO!("https://raw.githubusercontent.com/fn79/fn79/main/owo.json");
 ```
 
-`#Rust`, `#Go`
+`#Rust` `#Go` `#VSCode`
 
 ![a](https://komarev.com/ghpvc/?username=fn79)
 ![a](https://komarev.com/ghpvc/?username=fn79)
