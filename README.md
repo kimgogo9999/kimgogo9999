@@ -2,6 +2,8 @@
 OwO!("https://raw.githubusercontent.com/fn79/fn79/main/owo.json");
 ```
 
+`#Rust`, `#Go`
+
 ![a](https://komarev.com/ghpvc/?username=fn79)
 ![a](https://komarev.com/ghpvc/?username=fn79)
 
