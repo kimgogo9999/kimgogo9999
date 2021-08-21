@@ -6,6 +6,4 @@ cd _Fn79
 cargo run
 ```
 
-`#Rust` `#Go` `#VSCode`
-
 ![a](https://komarev.com/ghpvc/?username=fn79)
