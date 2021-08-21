@@ -1,5 +1,7 @@
-```rs
-OwO!("https://raw.githubusercontent.com/fn79/fn79/main/owo.json");
+```sh
+git clone https://github.com/Fn79/_Fn79.git
+cd _Fn79
+cargo run
 ```
 
 `#Rust` `#Go` `#VSCode`
