@@ -9,4 +9,4 @@ cargo run
 ![a](https://komarev.com/ghpvc/?username=fn79)
 
 
-<center><img src="banner_.png"></center>
+<center><img src="banner_image.png"></center>
