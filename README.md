@@ -6,4 +6,4 @@ cd _Fn79
 cargo run
 ```
 
-[![a](https://komarev.com/ghpvc/?username=fn79)](https://github.com/Fn79)
+[![](https://komarev.com/ghpvc/?username=fn79)](https://github.com/Fn79)
