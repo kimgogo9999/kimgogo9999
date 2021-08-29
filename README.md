@@ -5,3 +5,6 @@ cargo run
 ```
 
 [![](https://komarev.com/ghpvc/?username=fn79)](https://github.com/Fn79)
+
+
+`레포가 많이 없어진 이유: 필요없거나 포크된 레포를 삭제 / Private 로 설정함`
