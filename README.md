@@ -1,12 +1,7 @@
 <div align="center">
-  <a href="https://rust-lang.org"><img src="rust.jpg" width="300"/ style="
-  border: 3px;
-  solidgold;
-  border-radius: 7px;
-  -moz-border-radius: 7px;
-  -khtml-border-radius: 7px;
-  -webkit-border-radius: 7px;
-  "></a>
+  <a href="https://rust-lang.org"><img src="rust.jpg" width="300"/></a>
+
+  <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="200"/></a>
 </div>
 
 ```sh
