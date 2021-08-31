@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="rust.jpg"></div>
+
 ```sh
 git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
