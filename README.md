@@ -1,4 +1,4 @@
-<center><img src="rust.jpg" width: 10%; height: auto;><h1></h1></center>
+<center><img src="rust.jpg"></center>
 
 ```sh
 git clone https://github.com/Fn79/_Fn79.git
