@@ -1,5 +1,3 @@
-<center><img src="rust.jpg"></center>
-
 ```sh
 git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
