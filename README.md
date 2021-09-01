@@ -1,7 +1,14 @@
 <div align="center">
   <a href="https://rust-lang.org"><img src="rust.jpg" width="300"/></a>
 
-  <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="200"/></a>
+  <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="120"/></a>
+  
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a>
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-GoLang-00a3de?style=flat&logo=go"/></a>
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-TypeScript-54afff?style=flat&logo=typescript"/></a>
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript"/></a>
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp"/></a>
+  <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-Python-3429ff?style=flat&logo=python"/></a>
 </div>
 
 ```sh
