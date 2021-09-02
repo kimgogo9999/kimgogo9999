@@ -18,3 +18,5 @@ git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
 cargo run
 ```
+
+`프로필 이미지좀 추천해주세요... ㅌㅌ`
