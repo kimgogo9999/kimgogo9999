@@ -9,6 +9,8 @@
   <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript"/></a>
   <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp"/></a>
   <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-Python-3429ff?style=flat&logo=python"/></a>
+
+  <a href="https://open.spotify.com/track/3KGB7vix8aG0unW8fG1EqF?si=96b0ea624de14a09"><img src="https://img.shields.io/badge/-Kevin Rater / I LOVE YOU-000000?style=flat&logo=spotify"/></a>
 </div>
 
 ```sh
