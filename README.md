@@ -18,3 +18,13 @@ git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
 cargo run
 ```
+
+---
+
+<div align="center">
+  <h3>
+    <a href="https://discord.com/users/760688241447141395"><strong>Discord</strong></a>
+    |
+    <a href="https://crates.io/users/fn79"><strong>crates.io</strong></a>
+  </h3>
+</div>
