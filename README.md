@@ -27,4 +27,6 @@ cargo run
     |
     <a href="https://crates.io/users/fn79"><strong>crates.io</strong></a>
   </h3>
+
+  <a href="https://discord.com/users/760688241447141395"><img src="https://lanyard-profile-readme.vercel.app/api/760688241447141395" width="300"/></a>
 </div>
