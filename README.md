@@ -1,5 +1,9 @@
 <center><h1>Fn79</h1></center>
 
+<img src="rust.jpg" style="float: right; margin-left: 20px"></img>
+
+<br>
+
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a>
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-GoLang-00a3de?style=flat&logo=go"/></a>
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-TypeScript-54afff?style=flat&logo=typescript"/></a>
@@ -9,8 +13,6 @@
 
 <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="120"/></a>
 <a href="https://open.spotify.com/track/0svcQaBGSMFTnRDTRzfOLj?si=3a7e72d5c8134683"><img src="https://img.shields.io/badge/-최성원/제주도의 푸른밤-000000?style=flat&logo=spotify"/></a>
-
-<img src="rust.jpg" style="float: right; margin-left: 20px"></img>
 
 <h3>
     <a href="https://discord.com/users/760688241447141395"><strong>Discord</strong></a>
