@@ -1,3 +1,5 @@
+<center><h1>Hello, Fn79!</h1></center>
+
 <a href="https://rust-lang.org"><img src="rust.jpg" width="300" align="right"></a>
 
 <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="120"/></a>
@@ -11,7 +13,7 @@
 
 <a href="https://open.spotify.com/track/3KGB7vix8aG0unW8fG1EqF?si=96b0ea624de14a09"><img src="https://img.shields.io/badge/-Kevin Rater / I LOVE YOU-000000?style=flat&logo=spotify"/></a>
 
----
+<hr style="width:100%;text-align:left;margin-left:0">
 
 <h3>
   <a href="https://discord.com/users/760688241447141395"><strong>Discord</strong></a>
