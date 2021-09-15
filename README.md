@@ -1,6 +1,6 @@
-<center><h1>Fn79</h1></center>
+<center><h1>Fn79</h1>
 
-<img src="rust.jpg" style="float: right; margin-left: 20px"></img>
+<img src="rust.jpg"></img>
 
 <br>
 
@@ -27,3 +27,5 @@ git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
 cargo run
 ```
+
+</center>
