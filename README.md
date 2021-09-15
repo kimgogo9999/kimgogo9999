@@ -1,7 +1,6 @@
 <center><h1>Fn79</h1></center>
 
 <img src="rust.jpg" style="float: right; margin-left: 20px"></img>
-  
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a>
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-GoLang-00a3de?style=flat&logo=go"/></a>
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-TypeScript-54afff?style=flat&logo=typescript"/></a>
