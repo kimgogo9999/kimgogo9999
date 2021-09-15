@@ -22,10 +22,10 @@
 
 <a href="https://discord.com/users/760688241447141395"><img src="https://lanyard-profile-readme.vercel.app/api/760688241447141395" width="300"/></a>
 
+</center>
+
 ```sh
 git clone https://github.com/Fn79/_Fn79.git
 cd _Fn79
 cargo run
 ```
-
-</center>
