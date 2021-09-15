@@ -27,7 +27,6 @@
 
 <h2><strong>📞 Contact Me: </strong></h2>
 <a href="https://discord.com/users/760688241447141395"><img src="https://img.shields.io/badge/-! Bread Cat%230001-273b5d?style=flat&logo=discord"/></a>
-<a href="https://twitter.com/BBang_Dev"><img src="https://img.shields.io/badge/-@BBang_Dev-27535d?style=flat&logo=twitter"/></a>
 
 <a href="https://discord.com/users/760688241447141395"><img src="https://lanyard-profile-readme.vercel.app/api/760688241447141395" width="300"/></a>
 
