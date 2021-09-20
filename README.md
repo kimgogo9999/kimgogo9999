@@ -2,7 +2,7 @@
 
 <a href="https://rust-lang.org"><img src="rust.jpg" width="300" align="right"></a>
 
-<h3>Привет! I am a student developer living in Korea. I usually use Rust, TypeScript and Visual Studio Code. <strong>uwu</strong></h3>
+<h4>Привет! I am a student developer living in Korea. I usually use Rust, TypeScript and Visual Studio Code. <strong>uwu</strong></h4>
 
 <br>
 
@@ -26,7 +26,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 
 <h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discord.com/users/760688241447141395"><img src="https://img.shields.io/badge/-! Bread Cat%230001-273b5d?style=flat&logo=discord"/></a>
+<a href="https://discord.com/users/760688241447141395"><img src="https://img.shields.io/badge/-Bread Cat%230001-273b5d?style=flat&logo=discord"/></a>
 
 <a href="https://discord.com/users/760688241447141395"><img src="https://lanyard-profile-readme.vercel.app/api/760688241447141395" width="300"/></a>
 
