@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="120"/></a>
-<a href="https://open.spotify.com/track/3KGB7vix8aG0unW8fG1EqF?si=96b0ea624de14a09"><img src="https://img.shields.io/badge/-최성원 / 제주도의 푸른밤-000000?style=flat&logo=spotify"/></a>
+<a href="https://open.spotify.com/track/18RqBxwNtNUerkLwBPE3om?si=edc650121d584f02"><img src="https://img.shields.io/badge/-홀로 아리랑-000000?style=flat&logo=spotify"/></a>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a>
@@ -25,9 +25,9 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node-4a7558?style=flat&logo=node.js"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 
-<h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discord.com/users/760688241447141395"><img src="https://img.shields.io/badge/-Bread Cat%230001-273b5d?style=flat&logo=discord"/></a>
+<br><br>
 
-<a href="https://discord.com/users/760688241447141395"><img src="https://lanyard-profile-readme.vercel.app/api/760688241447141395" width="300"/></a>
+<h2><strong>📞 Contact Me: </strong></h2>
+<a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-reffis.owo@gmail.com-000000?style=flat&logo=gmail"/></a>
 
 <hr style="width:100%;text-align:left;margin-left:0">
