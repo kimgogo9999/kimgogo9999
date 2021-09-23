@@ -2,7 +2,7 @@
 
 <a href="https://rust-lang.org"><img src="rust.jpg" width="300" align="right"></a>
 
-<h4>Привет! I am a student developer living in Korea. I usually use Rust, TypeScript and Visual Studio Code. <strong>uwu</strong></h4>
+<p>Привет! I am a student developer living in Korea. I usually use Rust, TypeScript and Visual Studio Code. <strong>uwu</strong></p>
 
 <br>
 
