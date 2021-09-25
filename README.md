@@ -31,3 +31,7 @@
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-reffis.owo@gmail.com-000000?style=flat&logo=gmail"/></a>
 
 <hr style="width:100%;text-align:left;margin-left:0">
+
+<a href="https://github.com/Fn79">
+    <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fn79&theme=nord_bright" alt="uwu"/></center>
+</a>
